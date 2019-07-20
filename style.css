@@ -1,7 +1,22 @@
-.red{
+body {
+    background-image: url(images/bee\ background\ for\ projects\ page.jpg)
+}
+
+.yellow {
+    font-family: 'Indie Flower', cursive;
+    font-size: 30px;
 
 }
 
-.yellow{
-    
+.header{
+    background-color: palegoldenrod;
+}
+
+
+
+
+
+
+.main {
+    background-color: palegoldenrod;
 }
