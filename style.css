@@ -10,6 +10,8 @@ body {
 
 .header{
     background-color: palegoldenrod;
+    border-radius: 25px;
+    font-family: 'Indie Flower', cursive;
 }
 .img {
     /* The image used */
@@ -54,12 +56,18 @@ body {
     color: black;
   }
   
-
-
-
-
-
+#fun{
+  background-color: palegoldenrod;
+  float:right;
+  border-radius: 25px;
+  
+}
 
 .main {
     background-color: palegoldenrod;
+    border-radius: 25px;
+}
+.video {
+  float: left;
+  border-radius: 25px;
 }
