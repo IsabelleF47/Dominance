@@ -144,3 +144,9 @@ div.content {
   font-family: 'Indie Flower', cursive;
   font-size: 20px; 
 }
+
+.projects{
+  color: black;
+  font-family: 'Indie Flower', cursive;
+  background-color: white;
+}
